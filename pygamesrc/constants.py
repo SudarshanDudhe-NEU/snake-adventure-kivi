@@ -1,0 +1,15 @@
+# Game constants
+WINDOW_WIDTH = 800
+WINDOW_HEIGHT = 600
+GRID_SIZE = 20
+GRID_WIDTH = WINDOW_WIDTH // GRID_SIZE
+GRID_HEIGHT = WINDOW_HEIGHT // GRID_SIZE
+FRAMERATE = 10
+
+# Colors
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
+BLUE = (0, 0, 255)
+DARK_GREY = (30, 30, 30)  # New greyish background color
